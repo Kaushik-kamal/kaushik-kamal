@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a software engineering student <br>I am currently working on HTML, C, C++<br>I eager to learn and collaborate join me on this journey
+I am a software engineering student <br>I am currently working on Python, HTML, C, C++<br>I eager to learn and collaborate join me on this journey
 
 
 ## 🌐 Socials:
